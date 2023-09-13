@@ -17,8 +17,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-4BsDe4QGnm)
--  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-QR-Code-Component/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/3-column-preview-card-component-XxyviDk9iy)
+-  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-3Column-Card-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
